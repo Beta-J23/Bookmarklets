@@ -1,0 +1,17 @@
+javascript:(function(){
+  const data = JSON.parse(document.body.innerText);
+  const fields = [];
+  const num = parseInt(prompt("Enter how many fields you want to parse"));
+  for (let i = 0; i < num; i++) {
+    const fieldName = prompt("Enter field number " + (i+1) + " name:");
+    if (fieldName) fields.push(fieldName);
+  }
+  const results = Array.isArray(data) ? data : [data];
+  const extracted = results.map(item => {
+    const obj = {};
+    fields.forEach(f => obj[f] = item[f]);
+    return obj;
+  });
+  alert(JSON.stringify(extracted, null, 2));
+  const win = window.open('', '_blank');     win.document.write('<pre>' + JSON.stringify(extracted) + '</pre>');
+})();
