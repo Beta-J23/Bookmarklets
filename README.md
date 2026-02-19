@@ -1,7 +1,8 @@
 # My collection of Bookmarklets
 
-What is a bookmarklet:
-- A string of javascript code that injected in a browser page does a predefined action.
+<summary>What is a bookmarklet:</summary>
+<p>- A string of javascript code that injected in a browser page does a predefined action.</p>
+</details>
 
 How to use:
 - Open your bookmark manager.
