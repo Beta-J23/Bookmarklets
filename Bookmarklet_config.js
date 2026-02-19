@@ -6,5 +6,5 @@ window.bookmarkletMenuItems = [
   { name: "Parsing Utils", url: "" },
   { name: "Json Parser", url: "https://raw.githubusercontent.com/Beta-J23/Bookmarklets/refs/heads/main/Json_parser.txt" },
   { name: "Aspect", url: "" },
-  { name: "Dark Mode", url: "https://raw.githubusercontent.com/Beta-J23/Bookmarklets/refs/heads/main/Dark%20mode.txt?token=GHSAT0AAAAAADUHUXCPRVWNNP3OHHDVO2BC2MWYWWA" },
+  { name: "Dark Mode", url: "https://raw.githubusercontent.com/Beta-J23/Bookmarklets/refs/heads/main/Dark%20mode.txt" },
 ];
