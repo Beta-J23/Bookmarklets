@@ -5,11 +5,13 @@
 <p>- A string of javascript code that injected in a browser page does a predefined action.</p>
 </details>
 
-How to use:
-- Open your bookmark manager.
+<details>
+<summary>How to use:</summary>
+<p>- Open your bookmark manager.
 - Add a bookmark , paste the code in the url field.
 - Go on the page the bookmarklet is made for (if it's page-specific).
-- Launch the bookmarklet as a common bookmark.
+- Launch the bookmarklet as a common bookmark.</p>
+</details>
 
   On mobile:
 - Same as Laptop, but only calling the bookmark doesn't work, you should type the first letters of the bookmark until the browser suggest the bookmark, click on the auto-completion and the bookmarklet is launched.
