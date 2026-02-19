@@ -1,5 +1,6 @@
 # My collection of Bookmarklets
 
+<details>
 <summary>What is a bookmarklet:</summary>
 <p>- A string of javascript code that injected in a browser page does a predefined action.</p>
 </details>
