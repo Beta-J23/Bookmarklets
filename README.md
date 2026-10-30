@@ -34,4 +34,5 @@ What is in this repo:
 
 # Common simple utilities
 
+-Helper-Pad+ a notepad on your browser window to write ideas, it is helpful also in slow windows where input become so slow.
 - Dark mode - Just change the aspect to a dark style.
