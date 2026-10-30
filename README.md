@@ -13,12 +13,14 @@
 - Launch the bookmarklet as a common bookmark.</p>
 </details>
 
-  On mobile:
-- Same as Laptop, but only calling the bookmark doesn't work, you should type the first letters of the bookmark until the browser suggest the bookmark, click on the auto-completion and the bookmarklet is launched.
+<details>
+<summary>On mobile:</summary>
+<p>- Same as Laptop, but only calling the bookmark doesn't work, you should type the first letters of the bookmark until the browser suggest the bookmark, click on the auto-completion and the bookmarklet is launched.
 
 - These were done to work on laptop, and on mobile in some cases could not work properly, but if they are used I'll try to improve them and make them cross-compatible.
 
-- Nothing is saved, so if you want to close the action just refresh or close the tab.
+- Nothing is saved, so if you want to close the action just refresh or close the tab.</p>
+</details>
 
 What is in this repo:
 
